@@ -1,4 +1,4 @@
-module github.com/clintonV12/employees
+module employees
 
 go 1.15
 
